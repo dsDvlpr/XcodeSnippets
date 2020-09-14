@@ -23,6 +23,12 @@
       }
    }
 
-To use run in terminal open 
- ~/Library/Developer/Xcode/UserData/CodeSnippets 
-copy files from Snippets folder reopen Xcode
+To use run in terminal 
+
+open _~/Library/Developer/Xcode/UserData/CodeSnippets_
+
+copy files from Snippets folder
+
+reopen Xcode
+
+Start typing "swiftuipreview" in code **after** implementing your ViewController class, **not inside**.
